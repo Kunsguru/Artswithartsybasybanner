@@ -22,9 +22,16 @@
     margin: auto;
 }
 
+.banner-content h1 {
+    margin: 0;
+    font-size: 34px;
+    font-weight: 800px;
+}
+
 .banner-content h2 {
     margin: 0;
     font-size: 24px;
+    font-weight: 600px;
 }
 
 .banner-content p {
